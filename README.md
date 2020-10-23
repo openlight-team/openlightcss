@@ -1,2 +1,2 @@
-# dropui
-an open source openlight pure css framework
+# openlightCSS
+the open source openlight pure css framework
