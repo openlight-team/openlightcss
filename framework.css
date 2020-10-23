@@ -7,3 +7,20 @@ body {
     font-family: 'Source Sans Pro', sans-serif; /* Source Sans Pro as default font*/
     margin: 10px; /* Using 10px as default margin */
 }
+
+/* Font parameters */
+.margin-05 {
+    margin: 0.5em;
+}
+.margin-1 {
+    margin: 1em;
+}
+.margin-2 {
+    margin: 2em;
+}
+.margin-3 {
+    margin: 3em;
+}
+.margin-4 {
+    margin: 4em;
+}
