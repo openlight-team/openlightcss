@@ -4,5 +4,6 @@
 
 /* Applying base settings */
 body {
-    font-family: 'Source Sans Pro', sans-serif; /* Using Commissioner as default font*/
+    font-family: 'Source Sans Pro', sans-serif; /* Source Sans Pro as default font*/
+    margin: 10px; /* Using 10px as default margin */
 }
